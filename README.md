@@ -320,3 +320,7 @@ other_invalid_email.csv
 
 **Result: A complete AI-powered ETL automation pipeline built with
 n8n.**
+
+
+<img width="1496" height="770" alt="Screenshot 2026-09-09 at 3 47 17 PM" src="https://github.com/user-attachments/assets/e090e469-a12a-4ad8-88dd-cf6cb99f9cdf" />
+
